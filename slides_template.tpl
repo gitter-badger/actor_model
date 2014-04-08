@@ -169,7 +169,7 @@ transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/c
     height: "70%",
 
     // Factor of the display size that should remain empty around the content
-    margin: 0.1,
+    margin: 0.01,
 
     // Bounds for smallest/largest possible scale to apply to content
     minScale: 0.1,

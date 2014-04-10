@@ -52,8 +52,12 @@ plus some other miscellanea material, in no order, with some comments.
   Extremely clear explanations, and another minimal actor language
   (Hummus). Make sure to read the full archive.
 
++ **Dale Schumacher**. *Actor Idioms*. Agere! @ Splash 2012.
 
+  Discussion on common patterns (PDF_).
+  
 .. _Introduction.ipynb: http://nbviewer.ipython.org/github/waltermoreira/actor_model/tree/master/Introduction.ipynb
 .. _tartpy: https://github.com/waltermoreira/tartpy
 .. _Examples.ipynb: http://nbviewer.ipython.org/github/waltermoreira/actor_model/tree/master/Examples.ipynb
 .. _blog: http://www.dalnefre.com/wp/
+.. _PDF: https://apice.unibo.it/xwiki/bin/download/AGERE2012/AcceptedPapers/ageresplash2012submission3.pdf

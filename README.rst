@@ -24,9 +24,9 @@ References
 This is a list of references mentioned in the slides and examples,
 plus some other miscellanea material, in no order, with some comments.
 
-+ **Gul Agha**. *Actors: A Model of Concurrent Computation in 
++ **Gul Agha**. *Actors: A Model of Concurrent Computation in
   Distributed Systems*. Doctoral Dissertation. 1986.
-    
+
   A comprehensive book with good details on patterns. It discusses an
   operational model.
 
@@ -45,9 +45,15 @@ plus some other miscellanea material, in no order, with some comments.
   University.
 
   A good overview of many topics, including a very big list of
-  references (which is a superset of this list).
+  references.
+
++ **Dale Schumacher**. *It's Actors All The Way Down*. (blog_)
+
+  Extremely clear explanations, and another minimal actor language
+  (Hummus). Make sure to read the full archive.
 
 
 .. _Introduction.ipynb: http://nbviewer.ipython.org/github/waltermoreira/actor_model/tree/master/Introduction.ipynb
 .. _tartpy: https://github.com/waltermoreira/tartpy
 .. _Examples.ipynb: http://nbviewer.ipython.org/github/waltermoreira/actor_model/tree/master/Examples.ipynb
+.. _blog: http://www.dalnefre.com/wp/

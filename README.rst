@@ -1,6 +1,10 @@
 Introduction to the Actor Model of Computation
 ==============================================
 
+.. image:: https://badges.gitter.im/actor_model/community.svg
+   :alt: Join the chat at https://gitter.im/actor_model/community
+   :target: https://gitter.im/actor_model/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 This repository hosts slides and code for a brief introduction to the
 Actor Model of Computation.
 
